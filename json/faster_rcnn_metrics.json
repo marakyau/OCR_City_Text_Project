@@ -1,0 +1,18 @@
+{
+    "model": "Faster R-CNN ResNet50-FPN",
+    "task": "text detection",
+    "training_scheme": "fine-tuning",
+    "epochs": 3,
+    "imgsz": "original",
+    "train_subset": 3000,
+    "val_subset": 800,
+    "mAP50": 0.5872945583643413,
+    "mAP50_95": 0.31830114742307797,
+    "precision": 0.13334449420332314,
+    "recall": 0.8379800105207785,
+    "false_positives": 20707,
+    "missed_objects": 616,
+    "speed_ms_inference": 79.0747731924057,
+    "evaluated_images": 800,
+    "ground_truth_objects": 3802
+}

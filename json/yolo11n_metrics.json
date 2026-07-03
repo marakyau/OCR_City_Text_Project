@@ -1,0 +1,14 @@
+{
+    "model": "YOLO11n",
+    "task": "text detection",
+    "training_scheme": "fine-tuning",
+    "epochs": 10,
+    "imgsz": 640,
+    "mAP50": 0.5865265084864895,
+    "mAP50_95": 0.3394171015275053,
+    "precision": 0.635927651679477,
+    "recall": 0.5462048192771084,
+    "speed_ms_preprocess": 0.3217455234171005,
+    "speed_ms_inference": 3.2581044035794577,
+    "speed_ms_postprocess": 1.05671796444117
+}

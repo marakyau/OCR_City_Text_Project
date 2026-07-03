@@ -1,0 +1,14 @@
+{
+    "model": "YOLOv8n",
+    "task": "text detection",
+    "training_scheme": "fine-tuning",
+    "epochs": 10,
+    "imgsz": 640,
+    "mAP50": 0.5858259236298615,
+    "mAP50_95": 0.34083543097004704,
+    "precision": 0.6361853250391472,
+    "recall": 0.5488239688638876,
+    "speed_ms_preprocess": 0.3112442111523812,
+    "speed_ms_inference": 3.8178326042710413,
+    "speed_ms_postprocess": 1.0707440944560298
+}

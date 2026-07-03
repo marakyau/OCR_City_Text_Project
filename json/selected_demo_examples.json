@@ -1,0 +1,17 @@
+{
+    "success_candidates_count": 7,
+    "error_candidates_count": 56,
+    "copied_success_examples": [
+        "F:\\OCR_City_Text_Project\\report_materials\\successful_examples\\success_1_ocr_result_12134.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\successful_examples\\success_2_ocr_result_2588.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\successful_examples\\success_3_ocr_result_11171.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\successful_examples\\success_4_ocr_result_1078.jpg"
+    ],
+    "copied_error_examples": [
+        "F:\\OCR_City_Text_Project\\report_materials\\error_examples\\error_1_ocr_result_3397.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\error_examples\\error_2_ocr_result_2973.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\error_examples\\error_3_ocr_result_2884.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\error_examples\\error_4_ocr_result_2428.jpg",
+        "F:\\OCR_City_Text_Project\\report_materials\\error_examples\\error_5_ocr_result_11476.jpg"
+    ]
+}

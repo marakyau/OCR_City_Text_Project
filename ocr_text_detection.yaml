@@ -1,0 +1,7 @@
+
+path: F:/OCR_City_Text_Project/data/raw/coco_text_v2/archive
+train: train.txt
+val: val.txt
+
+nc: 1
+names: ['text']

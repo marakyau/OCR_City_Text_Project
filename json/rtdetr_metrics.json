@@ -1,0 +1,14 @@
+{
+    "model": "RT-DETR-L",
+    "task": "text detection",
+    "training_scheme": "fine-tuning",
+    "epochs": 10,
+    "imgsz": 640,
+    "mAP50": 0.7182990293946662,
+    "mAP50_95": 0.45242162230689675,
+    "precision": 0.7089044662535373,
+    "recall": 0.6550602409638554,
+    "speed_ms_preprocess": 0.36851367736730256,
+    "speed_ms_inference": 21.06251653541211,
+    "speed_ms_postprocess": 0.4811308545136301
+}
